@@ -1,1 +1,13 @@
 @import '~bootstrap/scss/bootstrap';
+
+img {
+    max-width: 100%;
+}
+
+.card {
+    height: 100%;
+}
+
+* {
+    background-color: lightslategrey;
+}
